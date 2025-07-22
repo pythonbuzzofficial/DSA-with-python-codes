@@ -9,4 +9,4 @@ def insertion_sort(li):
      return li
    
 my_list = [6,4,1,8,5,2,7,0]
-print(insertion_sort(my_list))d
+print(insertion_sort(my_list))
